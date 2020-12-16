@@ -1124,10 +1124,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.1.0.tgz#e42b1bef12d2415411519fd528e64b593b1363dc"
   integrity sha512-W/J0fNYVO01tioHjvYWQ9m6RgndVtbElzYozBq1ZPrHO/iCzlqoySHl4gO/fpCl9QEFjvJfjPgtPMTMlsoq5DQ==
 
-"@react-native-windows/cli@0.63.5":
-  version "0.63.5"
-  resolved "https://registry.yarnpkg.com/@react-native-windows/cli/-/cli-0.63.5.tgz#d404e6bd0d5217064a0bb862b338d60230d197de"
-  integrity sha512-mc1yrIyoEqibdBrnt9rZ8v7rzi7AVQiH5E4DhQ9OTW7MBNz96zdeIkJX6K9Ny486hjD5HzhkEdzO+D63xQqtmQ==
+"@react-native-windows/cli@0.63.7":
+  version "0.63.7"
+  resolved "https://registry.yarnpkg.com/@react-native-windows/cli/-/cli-0.63.7.tgz#5b034ff816e5a36bfa655e859adae9425a30af88"
+  integrity sha512-LmTJc80iT06pWLSdTpNuQEcA6gN2eSuQIQzKQBI45ClnGJ+oow3GrztACyUAArUN+QSieX3VhYVSiB6eMJ03QQ==
   dependencies:
     "@react-native-windows/telemetry" "^0.63.4"
     chalk "^3.0.0"
@@ -4151,9 +4151,9 @@ inherits@2, inherits@2.0.4, inherits@^2.0.1, inherits@^2.0.3, inherits@^2.0.4, i
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
 ini@^1.3.4, ini@^1.3.5, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@7.3.3, inquirer@^7.0.0, inquirer@^7.3.3:
   version "7.3.3"
@@ -6831,13 +6831,13 @@ react-native-code-push@^6.4.0:
     semver "^7.3.2"
     xcode "3.0.1"
 
-react-native-windows@^0.63.5:
-  version "0.63.11"
-  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.63.11.tgz#fbb1c73f0bbb0d64614ca08f2e338e813225ba7e"
-  integrity sha512-fthP6RvKy44PCO30PgidfsLPZwnfOexfcI/R/xC3p7YEBGw4TGodHJb+9m3AJdkYXvHUW0zxneCEpQuzw9NVyw==
+react-native-windows@^0.63.6:
+  version "0.63.14"
+  resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.63.14.tgz#cf1306c6a1160823674259c3f0e9f01557253847"
+  integrity sha512-l+pKQQRir8YOy/kwqf5gctoKB7j/fhNcKYw21QELvCTlM5Iv5RzJISj0O4SZYAa3nIzJ6hhpzHgmIHVQFHwH6A==
   dependencies:
     "@babel/runtime" "^7.8.4"
-    "@react-native-windows/cli" "0.63.5"
+    "@react-native-windows/cli" "0.63.7"
     abort-controller "^3.0.0"
     anser "^1.4.9"
     base64-js "^1.1.2"
